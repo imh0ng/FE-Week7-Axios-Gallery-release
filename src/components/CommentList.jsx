@@ -22,6 +22,7 @@ const Comment = styled.div`
     background: unset;
     color: grey;
     font-size: 15px;
+    cursor: pointer;
   }
 `;
 
