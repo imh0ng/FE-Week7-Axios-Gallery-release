@@ -1,1 +1,1 @@
-<img width="100%" src="record.mov"/>
+<img width="100%" src="record.mp4"/>
