@@ -20,6 +20,7 @@ const Form = styled.div`
     color: #2196F3;
     font-size: 15px;
     font-weight: 600;
+    cursor: pointer;
   }
 `;
 
